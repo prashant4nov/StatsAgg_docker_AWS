@@ -25,3 +25,5 @@ docker port [container_name]
 # http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_GetStarted.html
 
 # http://docs.aws.amazon.com/AmazonECS/latest/developerguide/get-set-up-for-amazon-ecs.html
+
+# http://ec2-52-20-61-225.compute-1.amazonaws.com:8080/Alerts
