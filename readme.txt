@@ -19,3 +19,9 @@ docker port [container_name]
 
 
 # Now open browser and type in http://[host_machine_ip]:[port # from the docker port command]
+
+# AWS EC2 container 
+
+# http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_GetStarted.html
+
+# http://docs.aws.amazon.com/AmazonECS/latest/developerguide/get-set-up-for-amazon-ecs.html
